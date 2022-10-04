@@ -5,6 +5,13 @@ Used Template posted in Canvas
 CS 3203
  */
 
+// added 10/04/22
+function test_print(){
+
+    console.log(“test code”)
+
+}
+
 $(function() {
    //Get Users
    $('#get-button').on('click', function() {
